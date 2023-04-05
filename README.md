@@ -4,4 +4,5 @@ This is the repository for the paper *DanTok: Domain Beats Language for Danish S
 
 ### Contents
 
-* **scripts**: the scripts used for our experiments
+* **experiments**: the scripts used for our experiments
+* **deduplication**: the scripts used for deduplication
